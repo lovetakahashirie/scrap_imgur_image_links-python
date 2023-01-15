@@ -14,10 +14,12 @@ so the txt file will be automatically saved
 sth like this
 ![My Remote Image](https://i.imgur.com/qOnW5tu.png)
 
-## others:
+## others
+remember to prepare chromedriver since we are using selenium
+use different import depending on ur selenium version (me is 4
 add user-agent, cookies, authorization etc. if needed
 
-## any improvements?
+## improvements?
 i am not cs major nor experienced developers (i know a bit py just because i do ML), so i am also thinking a way to improve (like using beautiful soup), but seems that this a a dynamic webpage, and scroll down is needed to get more links, so hope that i can figure out a way to do it using static ways
 
 welcome to all improvements and discussions
